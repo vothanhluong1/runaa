@@ -1,0 +1,22 @@
+script>
+</head>
+<body>
+<div class="header">
+  <table cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td valign="top" width="48" align="center">
+        <img class="icon" src="res://setup.exe/EULA/IDR_EULA_ICO.PNG" width="32" height="32" />
+        <div class="icontext">Google Chrome</div>
+      </td>
+      <td width="10">&nbsp;</td>
+      <td>
+        <span class="title">Navegue na Web com o Google Chrome</span><br /> <span class="desc">Utilizar a Internet é mais rápido, fácil e seguro com o Google Chrome, o navegador de Internet instalado no seu PC</span>
+      </td>
+    </tr>
+  </table>
+</div>
+<div class="main">
+  Aceite os Termos de Utilização para começar a utilizar o Google Chrome:
+</div>
+<div class="eula">
+  <iframe id="ifr" src="" width="100%" height="354" frame

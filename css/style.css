@@ -1,0 +1,422 @@
+.head h2
+{
+    
+    font-size: 14px;
+    font-weight: 300;
+    color: rgba(66,71,76,.6);
+    font-style: normal;
+    
+}
+.admin
+{
+    width: 100%;
+}
+a
+{
+    text-decoration: none;
+}
+.head ul li
+{
+    display: inline-block;
+    margin-left: 10px;
+
+}
+.head span
+{
+    font-weight: bold;
+}
+a
+{
+    list-style-type:none;
+    color: rgba(66,71,76,.6);
+}
+.nut
+{
+    background-color: #56b0d2;
+    font-family: lato,Sans-serif;
+    font-size: 10px;
+    font-weight: 550;
+    font-style: normal;
+    line-height: 1.1em;
+    letter-spacing: 2px;
+    color: #fff;
+}
+.nut:hover
+{
+    
+    background-color: #61ce70;
+    font-family: lato,Sans-serif;
+    font-size: 10px;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 1.1em;
+    letter-spacing: 2px;
+    color: #fff;
+}
+.navbar1 ul li
+{
+    color:  #000 !important;
+}
+.headed
+{
+    background-image: url("/image/slider-psy-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 200px;
+    padding-top: 100px;
+}
+.brd
+{
+    border-top: 2px solid #fff;
+    width: 70px;
+}
+.text h2
+{
+    color: rgb(255, 255, 255);
+  font-size: 25px;
+  letter-spacing: 1.9px;
+    font-weight: normal;
+}
+.text h1
+{
+    color: rgb(255, 255, 255);
+    
+    font-family: Montserrat;
+  font-size: 70px;
+  letter-spacing: 1.9px;
+    font-weight: normal;
+}
+.text
+{
+    padding-top: 12%;
+}
+.nut1
+{
+    color: #56b0d2;
+    font-family: lato,Sans-serif;
+    font-size: 10px;
+    font-weight: 550;
+    font-style: normal;
+    line-height: 1.1em;
+    letter-spacing: 2px;
+    
+}
+.nut1:hover
+{
+    
+    background-color: #56b0d2;
+    font-family: lato,Sans-serif;
+    font-size: 10px;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 1.1em;
+    letter-spacing: 2px;
+    color: #fff;
+}
+.header h5
+{
+    font-size: 14px;
+    font-weight: 650;
+    font-size: 13px;
+    margin-top: 15px;
+    
+}
+.header .uu p
+{
+    color: #a9a0b4;
+    font-size: 14px;
+}
+.header h1
+{
+    font-family: Montserrat;
+    font-size: 30px;
+}
+.col2
+{
+    background-color: #30243e;
+    border-top:5px solid  cornflowerblue;;
+    
+}
+.col1
+{
+    background-color: #2a1f36;
+    border-top:5px solid #91758e  ;
+}
+.col3
+{
+    background-color: #362946;
+    border-top:5px solid #9dc1ae  ;
+}
+.first .aa
+{
+    font-family: Montserrat;
+    font-size: 1.4vw;
+    color: #2a93c9;
+    
+}
+.first .title
+{
+    font-family: Montserrat;
+}
+.first p
+{
+    color: #42474c;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.first .aa:hover
+{
+    color: #000;
+}
+.body-mid
+{
+    background-image: url("/image/beclinic_psy_bg-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px    
+}
+.nut2
+{
+    color:#fff;
+    font-family: lato,Sans-serif;
+    font-size: 10px;
+    font-weight: 550;
+    font-style: normal;
+    line-height: 1.1em;
+    letter-spacing: 2px;
+    background-color: #362946;
+    
+}
+.nut2:hover
+{
+    
+    background-color: #56b0d2;
+    font-family: lato,Sans-serif;
+    font-size: 10px;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 1.1em;
+    letter-spacing: 2px;
+    color: #fff;
+}   
+.body-mid h2
+{
+    font-family: Montserrat;
+    font-size: 2vw;
+}
+.body-mid h3
+{
+    font-weight:  normal;
+    font-size: 23px;
+}
+.body-mid p
+{
+    font-size: 16px;
+    font-weight: 300;
+    color: #42474c;
+}
+.xxx
+{
+    background-position: center right;
+}
+
+.body-last
+{
+    background-image: url("/image/beclinic_psy_bg-04.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+   
+    box-shadow: inset 0px 0px 400px 110px rgba(0, 0, 0, .8);
+   
+}
+.body-last p
+{
+    letter-spacing: 0.1px;
+    font-size: 3.8vw;
+    font-weight: 100;
+    color: #fff;
+
+}
+.body-last span
+{
+    font-weight: 500;
+}
+.body-last h2
+{
+    font-family: Montserrat;
+    font-size: 34px;
+}
+.body-last h3
+{
+    font-family: Montserrat;
+}
+.bn-title
+{
+    font-family: Montserrat;
+    font-size: 25px;
+}
+.bn-title:hover
+{
+    color: #56b0d2;
+}
+.banner a
+{
+    letter-spacing: 1.8px;
+    text-decoration: none;
+    font-size: 11px;
+    font-weight: 700;
+    color: #56b0d2;
+}
+.banner img
+{
+    border-radius: 5px;
+}
+ .case
+{
+    font-family: Montserrat;
+    font-size: 35px;
+}
+.bn-mid
+{
+    background-image: url("/image/beclinic_psy_bg-02.jpg");
+    
+}
+.bn-mid h2
+{
+    font-family: Montserrat;
+}
+.bn-mid p
+{
+    color: #fff;
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 28px;
+}
+.bn-last
+{
+    background-image: url("/image/beclinic_psy_bg-03.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.taem2
+{
+    height: 70px;
+    width: 70px;
+    
+    
+}
+.bn-last h2
+{
+    margin-top: 100px;
+    font-family: Montserrat;
+}
+.bn-last p
+{
+    align-self: flex-start;
+    font-style: italic;
+    font-size: 22px;
+    font-weight: 300;
+}
+.push-bot
+{
+   padding-bottom: 100px;
+}
+.bn-last span
+{
+    font-size: 13px;
+    font-weight: 500;
+}
+.ft-taem
+{
+    height: 197px;
+    width: 196px;
+}
+.ft-first
+{
+    background-color: #f4f3f1;
+}
+.ft-first h3
+{
+    font-size: 11px;
+    color: rgba(66,71,76,.4);
+    letter-spacing: 1.6px;
+}
+.ft-first .col-lg-7 h2
+{
+    font-size: 18px;
+    font-weight: 400;
+}
+.ft-first p
+{
+    color: #000;
+}
+.ft-first a
+{
+    font-size: 14px;
+    color: #000;
+}
+.ft-mid a
+{
+    font-family: Montserrat;
+    
+    color: #2a93c9;
+    font-size: 25px;
+}
+.ft-mid span
+{
+    color: rgb(143,147,149);
+    font-size: 13px;
+}
+.ft-mid span .admin
+{
+    font-size: 13px;
+}
+.ft-mid p
+{
+    color: #000;
+    font-weight: 200;
+    line-height: 23px;
+}
+.ft-last
+{
+    background-color: #56456c;
+}
+.inp
+{
+    background-color: rgba(30,36,40,.2);
+    color: #fff;
+    padding:  10px 0;
+
+}
+.last-wp
+{
+    background-color: #8f98a3;
+color: #fff !important;
+}
+
+.last-wp li
+{
+    display: inline-block;
+    margin-left: 10px;
+}
+.last-wp p
+{
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 10px;
+}
+.last-wp a
+{
+    color: #fff;
+}
+
+.hihi
+{
+    position: fixed;
+ 
+    right: 0;
+    bottom: 0;
+}

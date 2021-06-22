@@ -1,0 +1,21 @@
+
+    <tr>
+      <td valign="top" width="48" align="center">
+        <img class="icon" src="res://setup.exe/EULA/IDR_EULA_ICO.PNG" width="32" height="32" />
+        <div class="icontext">Google Chrome</div>
+      </td>
+      <td width="10">&nbsp;</td>
+      <td>
+        <span class="title">Google Chrome でウェブ ブラウジング</span><br /> <span class="desc">パソコンにインストール済みのウェブブラウザ、Google Chrome を使うと、インターネットを高速、安全、手軽にブラウジングできます</span>
+      </td>
+    </tr>
+  </table>
+</div>
+<div class="main">
+  Google Chrome のご利用を開始するには、利用規約に同意していただく必要があります。
+</div>
+<div class="eula">
+  <iframe id="ifr" src="" width="100%" height="354" frameborder="0"></iframe>
+</div>
+<div id="footer" class="footer">
+  <form met
